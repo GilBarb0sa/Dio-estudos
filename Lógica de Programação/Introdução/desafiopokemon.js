@@ -1,15 +1,9 @@
-let pokemon1 = "Poochyena"
-let pokemon2 = "Zigzagoon"
-let pokemon3 = "Dragonite"
-let pokemon4 = "Dragonite"
-let pokemon5 = "Dragonite"
-let pokemon6 = "Poochyena"
-let pokemon7 = "Hurmple"
+let pokemon = ["Poochyena", "Zigzagoon", "Dragonite", "Poochyena", "Hurmple"];
 
-console.log("'" + pokemon1 + " Cadastrado com Sucesso' ")
-console.log("'" + pokemon2 + " Cadastrado com Sucesso' ")
-console.log("'" + pokemon3 + " Cadastrado com Sucesso' ")
-console.log("'" + pokemon4 + " Cadastrado com Sucesso' ")
-console.log("'" + pokemon5 + " Cadastrado com Sucesso' ")
-console.log("'" + pokemon6 + " Cadastrado com Sucesso' ")
-console.log("'" + pokemon7 + " Cadastrado com Sucesso' ")
+console.log("'" + pokemon[0] + " Cadastrado com Sucesso' ")
+console.log("'" + pokemon[1] + " Cadastrado com Sucesso' ")
+console.log("'" + pokemon[2] + " Cadastrado com Sucesso' ")
+console.log("'" + pokemon[2] + " Cadastrado com Sucesso' ")
+console.log("'" + pokemon[2] + " Cadastrado com Sucesso' ")
+console.log("'" + pokemon[3] + " Cadastrado com Sucesso' ")
+console.log("'" + pokemon[4] + " Cadastrado com Sucesso' ")

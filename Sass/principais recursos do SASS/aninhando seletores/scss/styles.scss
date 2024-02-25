@@ -1,0 +1,25 @@
+.box {
+  width: 250px;
+  border: 2px solid black;
+  background-color: plum;
+  aspect-ratio: 16/9;
+}
+
+button {
+  padding: .5rem 1.5rem;
+  border: 2px solid black;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #e94d5f;
+}
+
+nav ul {
+  background-color: plum;
+}
+
+nav li { 
+  color: green
+}
